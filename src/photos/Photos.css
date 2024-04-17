@@ -1,0 +1,17 @@
+.photos{
+  cursor: pointer;
+  width:40%;
+  border:1px solid #ddd;
+  border-radius:4px;
+  margin:20px;
+  padding:10px;
+  height: 40%;
+}
+.photos p{
+  margin: 20px;
+ }
+ .photos img {
+    border-radius: 2px;
+    width: 50px;
+
+  }

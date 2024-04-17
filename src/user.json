@@ -1,0 +1,17 @@
+{"id": "303030303",
+"emails": ["test@test.com", "aviv@walla.com"],
+"name": "אביב חיטמן",
+"nicknames": ["אביבוש","אביבי"],
+"phones": ["052-6446332", "050-9352237"],
+"facebook": "https://www.facebook.com/?locale=he_IL",
+"instagram": "https://www.instagram.com/",
+"youtube": "https://www.youtube.com/",
+"twitter": "https://twitter.com/?lang=he",
+"education": "אפקה",
+"report_target": "ראיון עבודה",
+"check": "",
+"country": "ישראל",
+"role":"מחפשת עבודה מעניינת",
+"profile_photo":"https://picsum.photos/300",
+
+"photos":["https://picsum.photos/400","https://picsum.photos/300","https://picsum.photos/220","https://picsum.photos/70","https://picsum.photos/80","https://picsum.photos/100","https://picsum.photos/90","https://picsum.photos/250","https://picsum.photos/200"]}

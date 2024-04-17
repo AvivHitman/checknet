@@ -1,0 +1,63 @@
+.userDetails{
+    border:1px solid #ddd;
+    border-radius: 4px ;
+    width:400px;
+    font-size: 10px;
+    margin:20px;
+}
+
+.userDetails p {
+   display: flex;
+   align-items: center;
+   justify-content: right;
+   text-align: right;
+   margin: 5px;
+}
+
+.userDetails img{
+    border-radius: 50%;
+    width: 60px;
+    margin: 5px;
+}
+
+.userDetails span{
+    font-weight: bold;
+    text-align: right;
+    margin-right: 2px;
+
+}
+.userDetails h1{
+   font-size: 12px;
+   font-weight: bold;
+}
+
+ .userDetails h3{
+    font-size: 7px;
+    opacity: 70%;
+ }
+ .report_container{
+    font-size: 10px;
+    border:1px solid #ddd;
+    border-radius: 4px ;
+    margin: 10px;
+ }
+
+ .email_phone_container{
+    border-radius: 4px 4px 0 0 ;
+    border:1px solid #ddd;
+    margin:  0 10px 0 10px;
+
+ }
+
+ .social_container{
+    border:1px solid #ddd;
+    margin:  0 10px 0 10px;
+
+ }
+
+
+ .hobbis_education_container{
+    border:1px solid #ddd;
+    margin:  0 10px 0 10px;
+    border-radius: 0 0 4px 4px;
+ }

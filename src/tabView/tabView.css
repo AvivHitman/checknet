@@ -1,0 +1,7 @@
+.tabView{
+    border:1px solid #ddd;
+    border-radius: 4px ;
+    width:100%;
+    font-size: 20px;
+    margin:20px;
+}

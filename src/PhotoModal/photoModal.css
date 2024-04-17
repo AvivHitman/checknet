@@ -1,0 +1,26 @@
+.photoModal{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 60%;
+  height: 80%;
+  background: gainsboro;
+  border-radius: 4px;
+  position:absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border:1px solid #ddd;
+
+}
+
+.photoModal img{
+    width: 50%;
+    margin: 20px;
+  
+}
+.closeIcon{
+  cursor: pointer;
+  position: absolute;
+  right:0;
+}
